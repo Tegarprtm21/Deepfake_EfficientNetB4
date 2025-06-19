@@ -1,5 +1,5 @@
-tensorflow>=2.9,<2.12
-streamlit
+streamlit>=1.25,<1.30
+tensorflow>=2.10,<2.12
 numpy
 opencv-python
 mtcnn
