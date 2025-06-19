@@ -37,14 +37,6 @@ streamlit run app.py
 * OpenCV
 * MTCNN
 * Pillow
-## 📁 Struktur Proyek
-├── Deepfake.py
-├── model/
-│   └── EfficientNetB4.h5
-├── requirements.txt
-├── .gitattributes
-└── README.md
-
 
 ## 👨‍💻 Pengembang
 
