@@ -1,5 +1,4 @@
-Library:
-
+Pip install
 streamlit
 tensorflow
 numpy
