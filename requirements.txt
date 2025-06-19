@@ -1,0 +1,8 @@
+Library:
+
+streamlit
+tensorflow
+numpy
+opencv-python
+mtcnn
+Pillow
