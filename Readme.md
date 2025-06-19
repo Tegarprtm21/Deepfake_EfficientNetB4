@@ -17,7 +17,7 @@ Deepfake adalah teknik manipulasi wajah menggunakan kecerdasan buatan yang dapat
 
 🔗 [Klik untuk mencoba aplikasi](https://YOUR-STREAMLIT-URL.streamlit.app/)
 
-> Ganti `YOUR-STREAMLIT-URL` dengan link deploy kamu di Streamlit Cloud
+> `URL`
 
 ## 🛠️ Cara Menjalankan Secara Lokal
 
