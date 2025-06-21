@@ -1,6 +1,4 @@
-protobuf==3.19.6
-streamlit==1.23.1
-tensorflow==2.10.0
+tensorflow==2.15.0
 numpy
 opencv-python
 mtcnn
